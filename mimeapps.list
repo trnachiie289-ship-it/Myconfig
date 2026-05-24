@@ -1,0 +1,5 @@
+[Added Associations]
+application/vnd.microsoft.portable-executable=nvim.desktop;
+
+[Default Applications]
+application/pdf=org.pwmt.zathura.desktop

@@ -1,0 +1,11 @@
+[Keyboard]
+NumLock=0
+
+[Mouse]
+XLbInptAccelProfileFlat=true
+XLbInptMiddleEmulation=false
+XLbInptNaturalScroll=false
+XLbInptPointerAcceleration=0.4
+XLbInptScrollOnButtonDown=false
+cursorSize=48
+cursorTheme=Moga-Candy-Black

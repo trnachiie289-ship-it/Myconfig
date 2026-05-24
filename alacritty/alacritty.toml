@@ -1,0 +1,77 @@
+[colors.primary]
+background = "#000000"
+foreground = "#ffffff"
+
+[window]
+opacity = 0.95
+
+[font]
+size = 10
+
+[keyboard]
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "V"
+mods = "Control|Shift"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "Plus"
+mods = "Control"
+action = "IncreaseFontSize"
+
+[[keyboard.bindings]]
+key = "Minus"
+mods = "Control"
+action = "DecreaseFontSize"
+
+[[keyboard.bindings]]
+key = "Key0"
+mods = "Control"
+action = "ResetFontSize"
+
+# Copy
+[[keyboard.bindings]]
+key = "C"
+mods = "Control"
+action = "Copy"
+
+# Paste
+[[keyboard.bindings]]
+key = "V"
+mods = "Control"
+action = "Paste"
+
+# New window
+[[keyboard.bindings]]
+key = "p"
+mods = "Control"
+action = "CreateNewWindow"
+
+# Fullscreen
+[[keyboard.bindings]]
+key = "F11"
+action = "ToggleFullscreen"
+
+# Quit
+[[keyboard.bindings]]
+key = "Q"
+mods = "Alt"
+action = "Quit"
+
+# Font +
+[[keyboard.bindings]]
+key = "Equals"
+mods = "Control"
+action = "IncreaseFontSize"
+
+# Font -
+[[keyboard.bindings]]
+key = "Minus"
+mods = "Control"
+action = "DecreaseFontSize"
