@@ -1,0 +1,7 @@
+[FTCS0038:00 2808:0106 Touchpad]
+clickMethodAreas=false
+clickMethodClickfinger=true
+middleEmulation=true
+naturalScroll=true
+pointerAcceleration=0.6
+tapToClick=true

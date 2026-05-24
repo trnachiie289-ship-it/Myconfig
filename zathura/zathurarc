@@ -1,0 +1,11 @@
+set default-bg "#ffff99"
+set statusbar-bg "#cccccc"
+set statusbar-fg "#FFFFFF"
+set completion-bg "#ffff99"
+set completion-fg "#DDDDDD"
+set recolor true
+set recolor-lightcolor "#ffff99"
+set recolor-darkcolor  "#000000"
+set recolor-keephue true
+set guioptions ""
+map <A-c> exec "bash -c 'xclip -o | trans -b :vi | xargs -I{} notify-send -i \"\" \"{}\"'"

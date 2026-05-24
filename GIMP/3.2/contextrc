@@ -1,0 +1,16 @@
+# GIMP user context
+
+(tool "gimp-text-tool")
+(paint-info "gimp-paintbrush")
+(foreground
+    (color "HSVA float" 16 "\0\0\0\0\140\362I\77\255l\63\77\0\0\200\77" 0))
+(brush "Clipboard Image")
+(dynamics "Pressure Size")
+(mybrush "Standard")
+(pattern "Pine")
+(gradient "FG to BG (Hard Edge)")
+(palette "Color History")
+(font "Sans-serif")
+(tool-preset "Virtual core pointer")
+
+# end of user context
